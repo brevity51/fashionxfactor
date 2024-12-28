@@ -1,12 +1,12 @@
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDIABMHUv4cNWl9XMv6o1m0L8CVoyorBk0",
-  authDomain: "culinaryflexpro.firebaseapp.com",
-  databaseURL: "https://culinaryflexpro-default-rtdb.firebaseio.com",
-  projectId: "culinaryflexpro",
-  storageBucket: "culinaryflexpro.appspot.com",
-  messagingSenderId: "1007996709593",
-  appId: "1:1007996709593:web:60e4a3d68b82a7524a6cc8"
+  apiKey: "AIzaSyDt2Lm9i7FWAKoohCx1Ro71IiXdArxPwIk",
+  authDomain: "fashionmol.firebaseapp.com",
+  databaseURL: "https://fashionmol-default-rtdb.firebaseio.com",
+  projectId: "fashionmol",
+  storageBucket: "fashionmol.firebasestorage.app",
+  messagingSenderId: "566227189374",
+  appId: "1:566227189374:web:a8462c3bff81fe22fd222f"
 };
 firebase.initializeApp(firebaseConfig);
 const appCheck = firebase.appCheck();
